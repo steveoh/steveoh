@@ -2,4 +2,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=steveoh&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveoh&layout=compact)
+
 ![Profile views](https://gpvc.arturio.dev/steveoh)   
